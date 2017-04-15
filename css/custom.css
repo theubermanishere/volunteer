@@ -51,4 +51,22 @@ button.button.w100.search {
 .footer {
     background-color: #262C3A;
     color: #fff;
+    height: 200px;
+}
+
+.footer {
+    padding: 2%;
+
+}
+
+.icon {
+    margin-right: 2%;
+}
+
+h4 {
+    color: white;
+}
+
+.foot {
+    color: #a2a2a3;
 }
