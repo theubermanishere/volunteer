@@ -1,0 +1,54 @@
+.container {
+    max-width: 75%;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body {
+    font-family: 'Lato','Josefin Slab';
+    background-color: #fff;
+}
+
+#herotag {
+    text-decoration: none;
+    font-family: chunkfive;
+    font-weight: normal;
+}
+
+div.row.align-center.header {
+    background-color: #fff;
+}
+
+div.nav {
+    background-color: #d32127;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    max-height: 8%;
+    font-family: Lato;
+    max-width: 75%;
+    margin-left: 12.5%;
+}
+
+img#hero {
+    margin-top: 12%;
+
+}
+
+#logonav {
+    max-height: 50%;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+button.button.w100.search {
+    color: #000;
+    background-color: #fff;
+    margin-top: 5%;
+}
+
+.footer {
+    background-color: #262C3A;
+    color: #fff;
+}
