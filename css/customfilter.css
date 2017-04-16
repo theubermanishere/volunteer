@@ -1,0 +1,120 @@
+.container {
+    max-width: 75%;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body {
+    font-family: 'Lato','Josefin Slab';
+    background-color: #fff;
+}
+
+#herotag {
+    text-decoration: none;
+    font-family: chunkfive;
+    font-weight: normal;
+    font-size: 80px;
+    margin-top: 60px;
+}
+
+div.row.align-center.header {
+    background-color: #fff;
+}
+
+div.nav {
+    background-color: #d32127;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    max-height: 8%;
+    font-family: Lato;
+    max-width: 75%;
+    margin-left: 12.5%;
+}
+
+img#hero {
+    margin-top: 12%;
+
+}
+
+#logonav {
+    max-height: 50%;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+button.button.w100.search {
+    color: #000;
+    background-color: #fff;
+    margin-top: 5%;
+}
+
+.footer {
+    background-color: #262C3A;
+    color: #fff;
+    height: 200px;
+}
+
+.footer {
+    padding: 2%;
+
+}
+
+.icon {
+    margin-right: 2%;
+}
+
+h4 {
+    color: white;
+}
+
+.foot {
+    color: #a2a2a3;
+}
+
+.info {
+    background-color: #00ddd8;
+    color: #fff;
+}
+
+.info p {
+    font-size: 20px;
+}
+
+h1 {
+    color: #fff;
+    font-family: chunkfive;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.verticalline {
+  border-left: thick solid rgb(38,44,58,0.1);
+  border-radius: 5px;
+} 
+
+.infoo {
+    margin-top: 4%;
+    color: #262c3a;
+
+}
+
+.listing {
+    color: #262c3a;
+}
+
+a {
+    text-decoration: none;
+    color: #00ddd8;
+}
+
+h3 {
+    font-family: chunkfive;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+label {
+    font-size: 20px;
+}
