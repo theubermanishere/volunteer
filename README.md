@@ -20,9 +20,20 @@ To-do:
     - Home page
     - pages for sending requests
     - pages for the organization to accept
-    - login/register page 
+###    - login/register page 
     - About Us ?
     - Contact Us ?
     - Profile editing page
 
 9) 
+
+
+------------------------------------
+
+1> Profile Page
+2> Home Page
+3> Presentation
+4> Business & Revenue Model
+5> Listing Page > filtering system
+6> Microvolunteering
+7> 

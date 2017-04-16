@@ -82,3 +82,28 @@ h1 {
     text-decoration: none;
     font-weight: normal;
 }
+
+.trump {
+    color: #262c3a;
+}
+
+div.row.lab {
+    color: #ababab;
+    font-size: 20px;
+    margin-top: 5%;
+    margin-bottom: 3%;
+
+}
+
+.classic {
+    color: #262c3a;
+}
+
+div.row.tr {
+    padding: 80px;
+    margin-top: 40px;
+}
+
+th {
+    padding: 15px;
+}

@@ -14,6 +14,8 @@ body {
     text-decoration: none;
     font-family: chunkfive;
     font-weight: normal;
+    font-size: 80px;
+    margin-top: 60px;
 }
 
 div.row.align-center.header {
@@ -76,9 +78,41 @@ h4 {
     color: #fff;
 }
 
+.info p {
+    font-size: 20px;
+}
+
 h1 {
     color: #fff;
     font-family: chunkfive;
     text-decoration: none;
     font-weight: normal;
 }
+
+.verticalline {
+  border-left: thick solid rgb(38,44,58,0.1);
+  border-radius: 5px;
+} 
+
+.infoo {
+    margin-top: 4%;
+    color: #262c3a;
+
+}
+
+.listing {
+    color: #262c3a;
+}
+
+a {
+    text-decoration: none;
+    color: #00ddd8;
+}
+
+h3 {
+    font-family: chunkfive;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+
